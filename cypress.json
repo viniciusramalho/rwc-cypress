@@ -6,6 +6,9 @@
         "email": "teste11111@mail.com",
         "password": "123123123"
     },
-    "experimentalSourceRewriting": false,
-    "watchForFileChanges": false
+    "watchForFileChanges": false,
+    "reporter": "junit",
+    "reporterOptions": {
+        "mochaFile": "cypress/reports/junit-[hash].xml"
+    }
 }
