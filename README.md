@@ -3,7 +3,7 @@
 
 Chapter 2 do Agilizei Bootcamp
 
-![](../ezgif.com-gif-maker.gif)
+![](ezgif.com-gif-maker.gif)
 
 ## Instalação
 
@@ -22,7 +22,7 @@ Estrutura Cypress:
 npx cypress open
 ```
 ## Técnicas desenvolvidas com o projeto:
-
+- Plataforma utilizada para teste (https://demo.realworld.io/#/)
 - Criação de uma estrutura usando o bahmutov cly
 - Configuração e uso do faker
 - Conceito de login em background
