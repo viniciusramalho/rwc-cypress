@@ -5,22 +5,6 @@ Chapter 2 do Agilizei Bootcamp
 
 ![](ezgif.com-gif-maker.gif)
 
-## Instalação
-
-Criar a pasta de package.json:
-```sh
-npm init -yes
-```
-
-Instalação Cypress:
-```sh
-npm install cypress
-```
-
-Estrutura Cypress:
-```sh
-npx cypress open
-```
 ## Técnicas desenvolvidas com o projeto:
 - Plataforma utilizada para teste (https://demo.realworld.io/#/)
 - Criação de uma estrutura usando o bahmutov cly
